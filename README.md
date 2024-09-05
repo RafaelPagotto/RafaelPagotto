@@ -18,4 +18,4 @@ Procuro oportunidades de emprego em áreas correlatas ao curso de S.I que tenham
 
 Possuo experiência junior com front-end web development e dados em SQL.
 
-Além disso, sou bacharel em Psicologia com especializações em psicologia infantil e intervenção ABA (análise do comportamento aplicada). Acredito que a tecnologia deve servir à sociedade considerando as diversidades culturais, econômicas e sociais, com o objetivo de causar um impacto positivo na vida dos indivíduos, além de movimentar capital.Cursando 
+Além disso, sou bacharel em Psicologia com especializações em psicologia infantil e intervenção ABA (análise do comportamento aplicada). Acredito que a tecnologia deve servir à sociedade considerando as diversidades culturais, econômicas e sociais, com o objetivo de causar um impacto positivo na vida dos indivíduos, além de movimentar capital.
