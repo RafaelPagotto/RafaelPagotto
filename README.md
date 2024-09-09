@@ -12,7 +12,7 @@ In addition, I hold a Bachelor's degree in Psychology with specializations in ch
 
 (PT/BR)
 
-Cursando bacharelado em Sistemas de Informação (S.I) na Faculdade Multivix, focado em analisar e desenvolver sistemas que permitam integrações didáticas, práticas, funcionais e objetivas entre usuários e plataformas.
+Cursando bacharelado em Sistemas de Informação (S.I).
 
 Procuro oportunidades de emprego em áreas correlatas ao curso de S.I que tenham sinergia com o aprendizado em sala de aula, potencializando o aprendizado teórico e prático. Meu objetivo é elevar minhas competências e habilidades, gerando novas oportunidades para inovar e aprimorar meu repertório como profissional.
 
