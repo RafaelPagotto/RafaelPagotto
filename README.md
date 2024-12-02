@@ -6,7 +6,7 @@ Seeking job opportunities in areas related to the Information Systems field that
 
 I have junior experience in front-end web development and SQL databases.
 
-In addition, I hold a Bachelor's degree in Psychology with specializations in child psychology and Applied Behavior Analysis (ABA). I believe technology should not only generate capital but also serve society considering cultural, economic, and social diversities, with the aim of making a positive impact on the lives of individuals.
+In addition, I hold a Bachelor's degree in Psychology with specializations in child psychology and Applied Behavior Analysis (ABA). I believe technology should serve society considering cultural, economic, and social diversities, with the aim of making a positive impact on the lives of individuals.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
