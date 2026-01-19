@@ -1,12 +1,15 @@
-(ENG)
+PTBR
+---
+Estudante de Sistemas de Informação, com experiência prática em rotinas de TI corporativa e suporte técnico.
 
-Currently pursuing a bachelor’s degree in Information Systems. My main focus is on data analysis and engineering, and so far I have experience with HTML, CSS, JavaScript, SQL, and C.
+Atuo com ambientes Windows e Linux, diagnóstico e resolução de problemas, suporte a usuários e manutenção básica de sistemas e equipamentos.
 
-In addition, I hold a degree in Psychology and a postgraduate specialization in Child Psychology.
+Possuo inglês fluente e estou em constante aprendizado em diferentes frentes da Tecnologia da Informação.
 
+ENG
+---
+Information Systems student with hands-on experience in corporate IT routines and technical support.
 
-(PT/BR)
+Experienced with Windows and Linux environments, troubleshooting, user support, and basic system and equipment maintenance.
 
-Cursando bacharelado em Sistemas de Informação. Meu foco principal é em análise e engenharia de dados. Por enquanto possuo experiência com HTML, CSS, JavaScript, SQL e C.
-
-Além disso, sou formado em Psicologia e pós-graduado em psicologia infantil.
+Fluent in English and continuously learning across different areas of Information Technology.
